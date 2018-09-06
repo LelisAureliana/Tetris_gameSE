@@ -21,18 +21,18 @@
 ⏯ | Menu Inicial | Menu do jogo onde o jogador escolhe entre iniciar um novo jogo ou ver a sua maior pontuação atual.
 ⏸ | Menu <i>Highscore</i> | Menu onde mostra a maior pontuação naquela sessão do jogo.
 ⏸ | Menu de Ajuda | Menu onde mostra um tutorial de como se jogar.
-⏸ | Níveis de Dificuldade | O jogador poderá escolher entre as dificuldades Fácil, Médio e Difícil.<br> As dificuldades Médio e Difícil estarão inicialmente bloqueadas.
+⏸ | Níveis de Dificuldade | O jogador poderá escolher entre as dificuldades Fácil, Médio e Difícil.<br> As dificuldades Médio e Difícil estarão inicialmente bloqueadas. || Aureliana
 ⏸ | Calculadora | Interface de uma calculadora onde o jogador digita os resultados das operações. || Daniel
-⏸ | Peças do Tetris | Gerador das peças do Tetris que será utilizada no jogo. | As peças poderão ser movidas (se acertar ou errar a equação) e giradas (se acertar apenas).
-⏸ | Lista de Peças Guardadas | O jogador poderá guardar peças para uso posterior.
+⏸ | Peças do Tetris | Gerador das peças do Tetris que será utilizada no jogo. | As peças poderão ser movidas (se acertar ou errar a equação) e giradas (se acertar apenas). | Wendell
+⏸ | Lista de Peças Guardadas | O jogador poderá guardar peças para uso posterior. || Wendell
 ⏸ | Operações de Adição | Gerador de operações de adição para os inimigos. || Daniel
 ⏸ | Operações de Subtração | Gerador de operações de subtração para os inimigos | ❗️ Devido a limitações da linguagem Scratch, as operações não poderão resultar em um número negativo. | Daniel
 ⏸ | Operações de Multiplicação | Gerador de operações de multiplicação para os inimigos. || Daniel
 ⏸ | Operações de Divisão | Gerador de operações de divisão para os inimigos. | ❗️ Devido a limitações da linguagem Scratch, as operações deverão resultar em um número inteiro. | Daniel
 ⏸ | Velocidade das Peças | Controle da velocidade da peça no jogo. | Enquanto houver uma equação a ser resolvida, a peça irá descer com uma velocidade reduzida. | Daniel
-⏸ | Pontuação | Cada linha feita aumentará a pontuação do jogador. | A pontuação servirá como requisito para desbloquear as outras dificuldades.
+⏸ | Pontuação | Cada linha feita aumentará a pontuação do jogador. | A pontuação servirá como requisito para desbloquear as outras dificuldades. | Aureliana
 ⏸ | <i>Game Over</i> | O jogador perderá o jogo quando uma peça tocar o topo da tela.
-⏸ | <i>Grid</i> | Nas dificuldades Fácil e Médio haverá linhas mostrando a matriz onde o jogador poderá colocar as peças.
+⏸ | <i>Grid</i> | Nas dificuldades Fácil e Médio haverá linhas mostrando a matriz onde o jogador poderá colocar as peças. || Wendell
 ⏸ | Peça Fantasma | A peça fantasma será uma característica da dificuldade Fácil onde o jogador verá uma prévia transparente de onde a peça irá cair.
 
 Status | Melhorias | Descrição | Observação | Responsável
@@ -43,7 +43,7 @@ Status | Melhorias | Descrição | Observação | Responsável
 ⏸ | Pausar o Jogo | O jogador pode pausar o jogo. | As operações desaparecem para não facilitar o jogo.<br>Através da opção de pausar que o jogador pode voltar para o Menu Principal.
 
 ## Equipe de Desenvolvimento:
-[<img src="https://avatars.githubusercontent.com/u/33517155" width="200px;"/><br><sub><b>Aureliana Lelis</b></sub>](https://github.com/LelisAureliana) | [<img src="https://avatars.githubusercontent.com/u/26439598" width="200px;"/><br><sub><b>Wendell Gomes</b></sub>](https://github.com/Dellg) | [<img src="https://avatars.githubusercontent.com/u/42477879" width="200px;"/><br><b>Daniel Queiroz</b></sub>](https://github.com/danielqueirosene)
+[<img src="https://avatars.githubusercontent.com/u/33517155" width="200px;"/><br><sub><b>Aureliana Lelis</b></sub>](https://github.com/LelisAureliana) | [<img src="https://avatars.githubusercontent.com/u/26439598" width="200px;"/><br><sub><b>Wendell Gomes</b></sub>](https://github.com/Dellg) | [<img src="https://avatars.githubusercontent.com/u/42477879" width="200px;"/><br><sub><b>Daniel Queiroz</b></sub>](https://github.com/danielqueirosene)
 :---: | --- | ---
 
 ## Requerimentos do Sistema:
