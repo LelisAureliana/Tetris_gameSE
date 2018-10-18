@@ -31,7 +31,7 @@
 ⏸ | Operações de Divisão | Gerador de operações de divisão para os inimigos. | ❗️ Devido a limitações da linguagem Scratch, as operações deverão resultar em um número inteiro. | Daniel
 ⏸ | Velocidade das Peças | Controle da velocidade da peça no jogo. | Enquanto houver uma equação a ser resolvida, a peça irá descer com uma velocidade reduzida. | Daniel
 ⏸ | Pontuação | Cada linha feita aumentará a pontuação do jogador. | A pontuação servirá como requisito para desbloquear as outras dificuldades. | Aureliana
-⏸ | <i>Game Over</i> | O jogador perderá o jogo quando uma peça tocar o topo da tela.
+⏸ | <i>Game Over</i> | O jogador perderá o jogo quando uma peça tocar o topo da tela. || Aureliana 
 ⏸ | <i>Grid</i> | Nas dificuldades Fácil e Médio haverá linhas mostrando a matriz onde o jogador poderá colocar as peças. ||
 ⏸ | Peça Fantasma | A peça fantasma será uma característica da dificuldade Fácil onde o jogador verá uma prévia transparente de onde a peça irá cair.
 
